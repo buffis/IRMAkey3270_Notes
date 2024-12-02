@@ -1,0 +1,139 @@
+Function keys:
+PRESS   ||      code=3A translation=F1
+PRESS   ||      code=3B translation=F2
+PRESS   ||      code=3C translation=F3
+PRESS   ||      code=3D translation=F4
+PRESS   ||      code=3E translation=F5
+PRESS   ||      code=3F translation=F6
+PRESS   ||      code=40 translation=F7
+PRESS   ||      code=41 translation=F8
+PRESS   ||      code=42 translation=F9
+PRESS   ||      code=43 translation=F10
+
+PF keys
+PRESS   ||      code=C2 translation=EXTRA_SYSRQ
+PRESS   ||      code=BE translation=EXTRA_F8
+PRESS   ||      code=64 translation=EUROPE_2
+PRESS   ||      code=44 translation=F11
+PRESS   ||      code=45 translation=F12
+PRESS   ||      code=67 translation=PAD_EQUALS
+PRESS   ||      code=B0 translation=FAKE_01
+PRESS   ||      code=B2 translation=EXTRA_PAD_PLUS
+PRESS   ||      code=8C translation=INTERNATIONAL_6
+PRESS   ||      code=B7 translation=EXTRA_F1
+PRESS   ||      code=B8 translation=EXTRA_F2
+PRESS   ||      code=B9 translation=EXTRA_F3
+PRESS   ||      code=BA translation=EXTRA_F4
+PRESS   ||      code=BB translation=EXTRA_F5
+PRESS   ||      code=BC translation=EXTRA_F6
+PRESS   ||      code=BD translation=EXTRA_F7
+PRESS   ||      code=68 translation=F13
+PRESS   ||      code=69 translation=F14
+PRESS   ||      code=6A translation=F15
+PRESS   ||      code=6B translation=F16
+PRESS   ||      code=6C translation=F17
+PRESS   ||      code=6D translation=F18
+PRESS   ||      code=6E translation=F19
+PRESS   ||      code=6F translation=F20
+
+ESC-row:
+PRESS   ||      code=35 translation=BACK_QUOTE      # Different
+PRESS   ||      code=1E translation=1
+PRESS   ||      code=1F translation=2
+PRESS   ||      code=20 translation=3
+PRESS   ||      code=21 translation=4
+PRESS   ||      code=22 translation=5
+PRESS   ||      code=23 translation=6
+PRESS   ||      code=24 translation=7
+PRESS   ||      code=25 translation=8
+PRESS   ||      code=26 translation=9
+PRESS   ||      code=27 translation=0
+PRESS   ||      code=2D translation=MINUS
+PRESS   ||      code=2E translation=EQUAL
+PRESS   ||      code=2A translation=BACKSPACE
+
+PRESS   ||      code=2B translation=TAB
+PRESS   ||      code=14 translation=Q
+PRESS   ||      code=1A translation=W
+PRESS   ||      code=08 translation=E
+PRESS   ||      code=15 translation=R
+PRESS   ||      code=17 translation=T
+PRESS   ||      code=1C translation=Y
+PRESS   ||      code=18 translation=U
+PRESS   ||      code=0C translation=I
+PRESS   ||      code=12 translation=O
+PRESS   ||      code=13 translation=P
+PRESS   ||      code=2F translation=LEFT_BRACE
+PRESS   ||      code=30 translation=RIGHT_BRACE
+PRESS   ||      code=28 translation=ENTER
+
+PRESS   ||      code=39 translation=CAPS_LOCK
+PRESS   ||      code=04 translation=A
+PRESS   ||      code=16 translation=S
+PRESS   ||      code=07 translation=D
+PRESS   ||      code=09 translation=F
+PRESS   ||      code=0A translation=G
+PRESS   ||      code=0B translation=H
+PRESS   ||      code=0D translation=J
+PRESS   ||      code=0E translation=K
+PRESS   ||      code=0F translation=L
+PRESS   ||      code=33 translation=SEMICOLON
+PRESS   ||      code=34 translation=QUOTE
+PRESS   ||      code=31 translation=BACKSLASH
+
+PRESS   ||      code=E1 translation=LSHIFT
+PRESS   ||      code=70 translation=F21                 #
+PRESS   ||      code=1D translation=Z
+PRESS   ||      code=1B translation=X
+PRESS   ||      code=06 translation=C
+PRESS   ||      code=19 translation=V
+PRESS   ||      code=05 translation=B
+PRESS   ||      code=11 translation=N
+PRESS   ||      code=10 translation=M
+PRESS   ||      code=36 translation=COMMA
+PRESS   ||      code=37 translation=PERIOD
+PRESS   ||      code=38 translation=SLASH
+PRESS   ||      code=E5 translation=RSHIFT
+
+PRESS   ||      code=E2 translation=LALT
+PRESS   ||      code=E0 translation=LCTRL
+PRESS   ||      code=2C translation=SPACE
+PRESS   ||      code=71 translation=F22
+PRESS   ||      code=72 translation=F23
+
+Arrow stuff, left to right, top to bottom
+PRESS   ||      code=C1 translation=FAKE_18
+PRESS   ||      code=88 translation=INTERNATIONAL_2
+PRESS   ||      code=55 translation=PAD_ASTERIX
+PRESS   ||      code=B1 translation=EXTRA_LALT
+PRESS   ||      code=B3 translation=EXTRA_RALT
+PRESS   ||      code=87 translation=INTERNATIONAL_1
+PRESS   ||      code=B4 translation=EXTRA_EUROPE_2
+PRESS   ||      code=B5 translation=EXTRA_BACKSLASH
+PRESS   ||      code=73 translation=F24
+PRESS   ||      code=93 translation=LANG_4
+PRESS   ||      code=92 translation=LANG_3
+PRESS   ||      code=8A translation=INTERNATIONAL_4
+PRESS   ||      code=BF translation=EXTRA_F9
+PRESS   ||      code=8B translation=INTERNATIONAL_5
+PRESS   ||      code=B6 translation=EXTRA_INSERT
+
+Numpad
+PRESS   ||      code=29 translation=ESC
+PRESS   ||      code=53 translation=NUM_LOCK
+PRESS   ||      code=47 translation=SCROLL_LOCK
+PRESS   ||      code=89 translation=INTERNATIONAL_3
+PRESS   ||      code=5F translation=PAD_7
+PRESS   ||      code=60 translation=PAD_8
+PRESS   ||      code=61 translation=PAD_9
+PRESS   ||      code=85 translation=PAD_COMMA
+PRESS   ||      code=5C translation=PAD_4
+PRESS   ||      code=5D translation=PAD_5
+PRESS   ||      code=5E translation=PAD_6
+PRESS   ||      code=56 translation=PAD_MINUS
+PRESS   ||      code=59 translation=PAD_1
+PRESS   ||      code=5A translation=PAD_2
+PRESS   ||      code=5B translation=PAD_3
+PRESS   ||      code=57 translation=PAD_PLUS
+PRESS   ||      code=62 translation=PAD_0
+PRESS   ||      code=63 translation=PAD_PERIOD

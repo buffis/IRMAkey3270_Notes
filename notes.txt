@@ -37,7 +37,7 @@ PRESS   ||      code=6E translation=F19
 PRESS   ||      code=6F translation=F20
 
 ESC-row:
-PRESS   ||      code=35 translation=BACK_QUOTE      # Different
+PRESS   ||      code=35 translation=BACK_QUOTE      
 PRESS   ||      code=1E translation=1
 PRESS   ||      code=1F translation=2
 PRESS   ||      code=20 translation=3
@@ -82,7 +82,7 @@ PRESS   ||      code=34 translation=QUOTE
 PRESS   ||      code=31 translation=BACKSLASH
 
 PRESS   ||      code=E1 translation=LSHIFT
-PRESS   ||      code=70 translation=F21                 #
+PRESS   ||      code=70 translation=F21                 
 PRESS   ||      code=1D translation=Z
 PRESS   ||      code=1B translation=X
 PRESS   ||      code=06 translation=C

@@ -1,3 +1,7 @@
+# Work specific macros not checked into github
+include "workmacros.sc"
+include "macros.sc"
+
 remapblock
  # Arrow keys
  EXTRA_BACKSLASH    UP
@@ -11,6 +15,7 @@ remapblock
  LALT               LCTRL
  LCTRL              LALT
  CAPS_LOCK          LGUI   # Caps lock is winkey.
+ F21                EUROPE_2
  F22                RALT
  F23                RCTRL
 

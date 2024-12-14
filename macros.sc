@@ -34,7 +34,7 @@ endblock
 
 # Top PF Row
 macroblock
- macro EUROPE_2             # PF3
+ macro F21                  # PF3
     MAKE LCTRL
     MAKE LGUI
     PRESS F3

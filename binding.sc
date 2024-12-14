@@ -1,5 +1,3 @@
-# Work specific macros not checked into github
-include "workmacros.sc"
 include "macros.sc"
 
 remapblock
@@ -15,7 +13,8 @@ remapblock
  LALT               LCTRL
  LCTRL              LALT
  CAPS_LOCK          LGUI   # Caps lock is winkey.
- F21                EUROPE_2
+ F21                EUROPE_2  # To get EU <> key to work, needs swap with PF3
+ EUROPE_2           F21
  F22                RALT
  F23                RCTRL
 
